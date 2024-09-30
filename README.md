@@ -1,7 +1,8 @@
 # Management the World's Meals
 
 ## Introduction
-"Management the World's Meals" is a web application designed to manage and organize meal plans from around the world. The project uses Vue.js for the frontend, Express.js for the backend, and Tailwind CSS for styling to provide a responsive and modern user interface.
+"Management the World's Meals" is a web application designed to manage and organize meal plans from around the world. 
+The project uses Vue.js for the frontend, Express.js for the backend, and Tailwind CSS for styling to provide a responsive and modern user interface.
 
 ## Features
 - Search and Filter: Search for meals and recipes based on various criteria.
@@ -57,8 +58,8 @@
 <<<<<<< HEAD
 ## Project Structure
 =======
-<<<<<<< HEAD
-<<<<<<< HEAD
+<<<<<< HEAD
+<<<<<< HEAD
 ## Project Structure
 =======
 ## Project Structure
